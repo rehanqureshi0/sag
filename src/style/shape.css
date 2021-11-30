@@ -1,0 +1,7 @@
+.shapes_obj{
+    position: absolute;
+    border-radius: 50%;
+    background: #42dae7;
+    box-shadow:  33px 33px 66px #37b7c2,
+                -33px -33px 66px #4dfdff;
+}
